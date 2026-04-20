@@ -50,7 +50,7 @@ The following data preprocessing steps were performed:
 
 ## 🛠 Tech Stack
 
-- SQL (MySQL / PostgreSQL)
+- MySQL
 - Data Cleaning
 - Data Analysis
 
